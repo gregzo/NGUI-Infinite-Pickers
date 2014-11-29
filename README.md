@@ -1,4 +1,4 @@
-NGUI-Infinite-Pickers
+NGUI Infinite Pickers
 =====================
 
 A little framework for creating pickers with NGUI.
